@@ -1,16 +1,71 @@
-### Hi there 👋
+# Konichiwa 👋
 
-<!--
-**thestuti/thestuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://c.tenor.com/7v9H8fvLGRMAAAAC/anime-hi.gif">
+</div>
 
-Here are some ideas to get you started:
+</br>
+</br>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# About ME 💬 :
+
+### - I'm 13 years  old Web / App development and Cyber Security Enthusiast from Nepal.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Flutter
+- ✨ Bug Hunting and Penetration Testing
+
+### - Hobbies : 
+- ✨ Reading Myths
+- ✨ Watching Movies
+- ✨ Fun talks
+- ✨ Listening to Music
+
+</br>
+</br>
+</br>
+
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://wifflegif.com/gifs/78173-light-yagami-potato-chip-gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. 
+
+<a href="mailto:stutiupreti@itsnp.org">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+</br>
+</br>
+</br>
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+<img  src="https://github-readme-stats.vercel.app/api?username=thestuti&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
