@@ -38,7 +38,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://wifflegif.com/gifs/78173-light-yagami-potato-chip-gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://25.media.tumblr.com/211344df6196eb84c741ad386c3249e2/tumblr_mjf6dkmxVb1r9xmvso1_400.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. 
