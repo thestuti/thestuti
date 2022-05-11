@@ -20,7 +20,7 @@
 - ✨ Bug Hunting and Penetration Testing
 
 ### - Hobbies : 
-- ✨ Reading Myths
+- ✨ Reading Myths (Norse Mythology Currently)
 - ✨ Watching Movies
 - ✨ Fun talks
 - ✨ Listening to Music
