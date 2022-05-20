@@ -1,7 +1,7 @@
 # Hi 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="[https://c.tenor.com/7v9H8fvLGRMAAAAC/anime-hi.gif](https://thumbs.gfycat.com/CourteousCelebratedApisdorsatalaboriosa-max-1mb.gif)">
+<img hight="300" width="700" alt="GIF" align="center" src="https://thumbs.gfycat.com/CourteousCelebratedApisdorsatalaboriosa-max-1mb.gif">
 </div>
 
 </br>
