@@ -17,7 +17,7 @@
 
 ### - Learning :
 - ✨ Flutter
-- ✨ Bug Hunting and Penetration Testing
+- ✨ Bug Hunting and Penetration Testing 
 
 ### - Hobbies : 
 - ✨ Reading Myths (Norse Mythology Currently)
