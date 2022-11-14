@@ -1,7 +1,9 @@
 # Hi 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://thumbs.gfycat.com/CourteousCelebratedApisdorsatalaboriosa-max-1mb.gif">
+<img  width="500" alt="Hello Gif" align="right" src="https://media.tenor.com/QB_2DlTUu5IAAAAM/mybc.gif">
+<!--
+<img hight="300" width="700" alt="GIF" align="center" src="https://thumbs.gfycat.com/CourteousCelebratedApisdorsatalaboriosa-max-1mb.gif"> -->
 </div>
 
 </br>
@@ -65,7 +67,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
 <img  src="https://github-readme-stats.vercel.app/api?username=thestuti&&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestuti&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestuti&layout=compact&theme=radical"/>
 
   </a>
   </p>
