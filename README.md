@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 13 years  old Web / App development and Cyber Security Enthusiast from Nepal.
+### - I'm 14 years  old Web / App development and Cyber Security Enthusiast from Nepal.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif">
 
@@ -65,6 +65,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
 <img  src="https://github-readme-stats.vercel.app/api?username=thestuti&&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestuti&layout=compact"/>
+
   </a>
   </p>
 
