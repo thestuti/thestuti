@@ -6,6 +6,7 @@
 stuti@stutiupreti
 ———————————
 name: Stuti Upreti
+pronouns: she/her
 grade: 10
 hobbies: coding, cinema, writing, music, books
 interests: hackathons, development, cybersecurity, science, open source
