@@ -15,6 +15,7 @@ learning: golang, aws
 twitter: stutiupreti2
 mail: stutiupreti12@gmail.com
 facebook: stutiupreti2
+instagram: stutiupreti2
 ```
 
 <hr>
