@@ -3,7 +3,7 @@
 <img align="left" src="ascii.png" width="300" /> 
 
 ```yaml
-stuti@stutiupreti
+thestuti@stutiupreti
 ———————————
 name: Stuti Upreti
 pronouns: she/her
