@@ -11,6 +11,7 @@ grade: 10
 hobbies: coding, cinema, writing, music, books
 interests: hackathons, development, cybersecurity, science, open source
 learning: golang, aws
+quote: The human race is filled with passion!
 ———————————
 mail: stutiupreti12@gmail.com
 twitter: stutiupreti2
