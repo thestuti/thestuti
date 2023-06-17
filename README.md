@@ -12,8 +12,8 @@ hobbies: coding, cinema, writing, music, books
 interests: hackathons, development, cybersecurity, science, open source
 learning: golang, aws
 ———————————
-twitter: stutiupreti2
 mail: stutiupreti12@gmail.com
+twitter: stutiupreti2
 facebook: stutiupreti2
 instagram: stutiupreti2
 ```
