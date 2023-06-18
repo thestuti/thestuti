@@ -1,7 +1,6 @@
 name: Update Quote
 on:
-  workflow_dispatch:
-
+ workflow_dispatch:
 
 env:
   TIME_ZONE: "Asia/Kathmandu"
@@ -18,25 +17,30 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.email "stutiupreti12@gmail.com"
-          git config user.name "thestuti"
-
+          git init
+          git config --global user.email "stutiupreti12@gmail.com"
+          git config --global user.name "thestuti"
 
       - name: Check out repository
         uses: actions/checkout@v2
         with:
-            repository: thestuti/thestuti
+          repository: thestuti/thestuti
 
       - name: Run script
         run: |
           chmod +x quote.sh
           ./quote.sh
 
+      - name: Check README.md status
+        run: |
+          git status README.md
+
       - name: Commit and push changes
         run: |
-          git add README.md
-          git commit -m "Update quote"
-          git push origin main
+             git pull origin main
+             chmod +x quote.sh
+             git add .
+             git commit -m "Update quote"
+             git push origin main
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
