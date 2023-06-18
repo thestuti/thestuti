@@ -1,6 +1,7 @@
 name: Update Quote
 on:
-  workflow_dispatch:
+  schedule:
+      - cron: "0 0 * * *"
 
 env:
   TIME_ZONE: "Asia/Kathmandu"
