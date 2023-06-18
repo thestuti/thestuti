@@ -29,7 +29,6 @@ jobs:
       - name: Run script
         run: |
           chmod +x thestuti/quote.sh
-          cd thestuti
           ./quote.sh
 
       - name: Commit and push changes
