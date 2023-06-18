@@ -1,4 +1,4 @@
-name: Daily Quote Update
+name: Update Quote
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -19,15 +19,18 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
 
-      - name: Run script
+      - name: Update quote
         run: |
           chmod +x quote.sh
           ./quote.sh
 
-      - name: Commit and push changes
+      - name: Configure Git
         run: |
           git config --local user.email "stutiupreti12@gmail.com"
           git config --local user.name "thestuti"
+
+      - name: Commit and push changes
+        run: |
           git add README.md
           git commit -m "Update quote"
           git push origin main
