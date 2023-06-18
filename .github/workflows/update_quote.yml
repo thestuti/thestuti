@@ -21,16 +21,16 @@ jobs:
         with:
             repository: thestuti/thestuti
           
+      - name: Configure Git
+        run: |
+            git config --local user.name "thestuti"
+            git config --local user.email "stutiupreti12@gmail.com"
 
       - name: Update quote
         run: |
           chmod +x quote.sh
           ./quote.sh
 
-      - name: Configure Git
-        run: |
-            git config --local user.name "thestuti"
-            git config --local user.email "stutiupreti12@gmail.com"
         
 
       - name: Commit and push changes
