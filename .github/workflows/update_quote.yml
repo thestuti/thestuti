@@ -37,7 +37,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add README.md
+          git add .
           git commit -m "Update quote"
           git push origin main
         env:
