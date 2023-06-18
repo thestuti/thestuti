@@ -40,6 +40,7 @@ jobs:
         run: |
           git add .
           git commit -m "Update quote"
+          git pull origin main
           git push origin main
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
