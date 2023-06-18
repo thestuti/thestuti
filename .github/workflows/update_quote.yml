@@ -31,6 +31,10 @@ jobs:
           chmod +x quote.sh
           ./quote.sh
 
+      - name: Check README.md status
+        run: |
+          git status README.md
+
       - name: Commit and push changes
         run: |
           git add README.md
