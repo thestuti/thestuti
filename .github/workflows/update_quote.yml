@@ -30,7 +30,7 @@ jobs:
       - name: Configure Git
         run: |
             git config --local user.name "thestuti"
-            git config --local user.email "stuti@itsnp.org"
+            git config --local user.email "stutiupreti12@gmail.com"
         
 
       - name: Commit and push changes
