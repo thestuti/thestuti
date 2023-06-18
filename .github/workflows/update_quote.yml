@@ -18,8 +18,9 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --local user.email "stutiupreti12@gmail.com"
-          git config --local user.name "thestuti"
+          git config user.email "stutiupreti12@gmail.com"
+          git config user.name "thestuti"
+
 
       - name: Check out repository
         uses: actions/checkout@v2
