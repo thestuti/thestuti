@@ -33,7 +33,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          cd thestuti
           git add README.md
           git commit -m "Update quote"
           git push origin main
