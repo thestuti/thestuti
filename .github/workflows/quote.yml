@@ -1,4 +1,4 @@
-name: Daily Quote Update
+name: Quote
 on:
   schedule:
     - cron: "0 0 * * *"
