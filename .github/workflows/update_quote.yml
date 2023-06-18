@@ -16,25 +16,26 @@ jobs:
           echo $TIME_ZONE | sudo tee /etc/timezone
           date
 
+      - name: Configure Git
+        run: |
+          git config --local user.email "stutiupreti12@gmail.com"
+          git config --local user.name "thestuti"
+
       - name: Check out repository
         uses: actions/checkout@v2
         with:
             repository: thestuti/thestuti
-          
-      - name: Configure Git
-        run: |
-            git config --local user.name "thestuti"
-            git config --local user.email "stutiupreti12@gmail.com"
 
-      - name: Update quote
+      - name: Run script
         run: |
           chmod +x quote.sh
           ./quote.sh
-
-        
 
       - name: Commit and push changes
         run: |
           git add README.md
           git commit -m "Update quote"
           git push origin main
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
