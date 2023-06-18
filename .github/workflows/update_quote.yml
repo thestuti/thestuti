@@ -38,9 +38,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add .
-          git commit -m "Update quote"
-          git pull origin main
-          git push origin main
+             git pull origin main
+             chmod +x quote.sh
+             git add .
+             git commit -m "Update quote"
+             git push origin main
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
