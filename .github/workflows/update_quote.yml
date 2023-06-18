@@ -10,7 +10,7 @@ jobs:
   update_quote:
     runs-on: ubuntu-latest
     steps:
-      - name: Set up time zone
+      - name: Set up the time zone
         run: |
           sudo ln -sf /usr/share/zoneinfo/$TIME_ZONE /etc/localtime
           echo $TIME_ZONE | sudo tee /etc/timezone
