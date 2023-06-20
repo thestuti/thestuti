@@ -2,10 +2,6 @@ name: Update Quote
 on:
   schedule:
       - cron: "0 0 * * *"
-
-env:
-  TIME_ZONE: "Asia/Kathmandu"
-
 jobs:
   update_quote:
     runs-on: ubuntu-latest
