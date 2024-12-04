@@ -11,7 +11,7 @@ grade: 11
 hobbies: coding, cinema, writing, music, books
 interests: hackathons, development, cybersecurity, science, open source
 learning: golang, aws
-quote: The human race is filled with passion!
+quote: No matter what anybody tells you, words and ideas can change the world.
 ———————————
 mail: stutiupreti12@gmail.com
 twitter: stutiupreti2
