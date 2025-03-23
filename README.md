@@ -11,7 +11,7 @@ grade: 11
 hobbies: coding, cinema, writing, music, books
 interests: hackathons, development, cybersecurity, science, open source
 learning: golang, aws
-quote: You should not like things because people tell you you are supposed to.
+quote: Mornings are for coffee and contemplation.
 ———————————
 mail: stutiupreti12@gmail.com
 twitter: stutiupreti2
