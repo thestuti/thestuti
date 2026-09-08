@@ -11,7 +11,7 @@ grade: 11
 hobbies: coding, cinema, writing, music, books
 interests: hackathons, development, cybersecurity, science, open source
 learning: golang, aws
-quote: I stand upon my desk to remind myself that we must constantly look at things in a different way.
+quote: The human race is filled with passion!
 ———————————
 mail: stutiupreti12@gmail.com
 twitter: stutiupreti2
