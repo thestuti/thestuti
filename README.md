@@ -11,7 +11,7 @@ grade: 11
 hobbies: coding, cinema, writing, music, books
 interests: hackathons, development, cybersecurity, science, open source
 learning: golang, aws
-quote: Why are you keeping this curiosity door locked?
+quote: You should not like things because people tell you you are supposed to.
 ———————————
 mail: stutiupreti12@gmail.com
 twitter: stutiupreti2
