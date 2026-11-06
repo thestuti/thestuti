@@ -11,7 +11,7 @@ grade: 11
 hobbies: coding, cinema, writing, music, books
 interests: hackathons, development, cybersecurity, science, open source
 learning: golang, aws
-quote: Carpe Diem, seize the day boys, make your lives extraordinary.
+quote: Why are you keeping this curiosity door locked?
 ———————————
 mail: stutiupreti12@gmail.com
 twitter: stutiupreti2
